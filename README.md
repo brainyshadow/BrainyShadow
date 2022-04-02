@@ -2,7 +2,7 @@
 
 I am a student at the University of Waterloo who enjoys software development.
 
-My intrest in technology started when I was a kid with remote control toys. This quickly evolved to FPV, then into Arduino, and then into software development.
+My intrest in technology started when I was a kid with remote control toys. This quickly evolved to FPV drones, then to Arduino, and then into software development.
 
 My favorite projects at the moment are: 
 
