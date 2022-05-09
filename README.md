@@ -7,7 +7,7 @@ My intrest in technology started when I was a kid with remote control toys. This
 My favorite projects at the moment are: 
 
 - resume-maker
-- textify
+- secure-password-generator
 
 Feel free to create a pull reqeust on any of my projects if you have an idea or suggestion. I'd love to hear your feedback.
 
